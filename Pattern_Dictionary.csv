@@ -1,0 +1,269 @@
+S..No,Patterns,Priority
+1,Access denied,1
+2,Access Error,1
+3,Access Issue,1
+4,Access problem,1
+5,Access revoked,1
+6,Cannot access,1
+7,Cant access,1
+8,Can't access,1
+9,Do not have access,1
+10,error while accessing,1
+11,Issue in accessing,1
+12,Lost access to,1
+13,Missing access,1
+14,No access,1
+15,Not able to access,1
+16,Not authorized,1
+17,Authorization Issue,1
+18,Permission Denied,1
+19,Permission error,1
+20,Permission issue,1
+21,Unable to access,1
+22,Application not accessible ,1
+23,URL access Issue,1
+24,Server accessibility ,1
+25,Access Management,1
+26,Access received ,1
+27,Access Request,1
+28,Enable Access,1
+29,Grant Access,1
+30,Need Access,1
+31,Need permission,1
+32,Provide access ,1
+33,Request Access,1
+34,Requesting Access,1
+35,User activated ,1
+36,User rights,1
+37,rights,1
+38,User need access ,1
+39,Application access ,1
+40,Application accessibility ,1
+41,file access request,1
+42,New User Access,1
+43,Request for sharepoint access,1
+44,sap access,1
+45,Server access ,1
+46,Access Transfer,1
+47,Disable access,1
+48,Disable user access ,1
+49,Disable user,1
+50,Disable ID,1
+51,Remove access,1
+52,Revert access,1
+53,Revoke access,1
+54,Terminate access,1
+55,Inactivate account ,1
+56,Remove account ,1
+57,Account removal,1
+58,User Access Deactivate,1
+59,Remove user,1
+60,User removal,1
+61,Add new user ,1
+62,Adding user,1
+63,Add user,1
+64,Add users,1
+65,Remove attached ID ,1
+66,Remove attached IDs ,1
+67,Remove Roles ,1
+68,Remove user from backend ,1
+69,Remove users ,1
+70,Approver change ,1
+71,Change approver ,1
+72,Change role ,1
+73,Role change ,1
+74,not auth msg,1
+75,no authorization,1
+76,Authorisation,1
+77,Authoris,1
+78,Authenticat,1
+79,Access,1
+80,Permission,1
+81,Grant,1
+82,Allow user,1
+83,Revoke,1
+84,access needed,1
+85,access required,1
+86,delete access,1
+87,remove access,1
+88,give access,1
+89,user access,1
+90,access inquiry,1
+91,Account Request,2
+92,Activate account ,2
+93,Create Account,2
+94,Create profile,2
+95,Enable account,2
+96,New account creation,2
+97,Account creation,2
+98,Profile Creation,2
+99,Profile Request,2
+100,Account related,2
+101,New User Account,2
+102,Resend Account Request,2
+103,User account,2
+104,Account Activation,2
+105,Activate Account,2
+106,User Account Reactivate,2
+107,Reactivate account,2
+108,Create ID,2
+109,ID Request,2
+110,Account Issue,2
+111,New User,2
+112,account deactivate,2
+113,deactivate account,2
+114,reset password,3
+115,Reset Pass word ,3
+116,Password Reset,3
+117,Pass word Reset ,3
+118,Password_Reset,3
+119,Forgot Password,3
+120,Password expired ,3
+121,Password change ,3
+122,Password expire,3
+123,Update password ,3
+124,Pwd reset,3
+125,Password problem ,3
+126,Password problems ,3
+127,Pwd change ,3
+128,Pwd expired ,3
+129,Pwd problem ,3
+130,Pwd problems ,3
+131,Pwd reset request ,3
+132,Re set password,3
+133,Request to reset pswd,3
+134,Reset pwd,3
+135,Reset Pswd ,3
+136,Resetting password,3
+137,Temporary password ,3
+138,Temporary pwd ,3
+139,Pass word,3
+140,Password,3
+141,credentials rejected,3
+142,forgotten her INTACT credentials ,3
+143,Account locked ,4
+144,Unlock account ,4
+145,Account unlock,4
+146,account unlocked,4
+147,Locked out ,4
+148,System locked ,4
+149,Needs to be unlocked,4
+150,Account Inactive,4
+151,Unlock ,4
+152,Un lock,4
+153,user locked out,4
+154,unlock request,4
+155,Account Merge,5
+156,Merge Account Request,5
+157,User Account update,6
+158,Update user profile ,6
+159,User Profile update,6
+160,Update Name,6
+161,Update Address,6
+162,Update Phone,6
+163,Update email,6
+164,Update age,6
+165,Update location,6
+166,Modify user profile ,6
+167,User Profile Modify,6
+168,Modify Name,6
+169,Modify Address,6
+170,Modify Phone,6
+171,Modify email,6
+172,Modify age,6
+173,Modify location,6
+174,Change user profile ,6
+175,User Profile Change,6
+176,Change Name,6
+177,Change Address,6
+178,Change Phone,6
+179,Change email,6
+180,Change age,6
+181,Change location,6
+182,Correct user profile ,6
+183,User Profile Correct,6
+184,Correct Name,6
+185,Correct Address,6
+186,Correct Phone,6
+187,Correct email,6
+188,Correct age,6
+189,Correct location,6
+190,Profile Data Update,6
+191,Greyed out,7
+192,frozen,7
+193,freeze,7
+194,freezing,7
+195,Crash,7
+196,Crashed,7
+197,Crashing,7
+198,clocking,7
+199,is Latent,7
+200,Latency experienced,7
+201,Latency,7
+202,running extremely slow,7
+203,Slow response,7
+204,Slowly,7
+205,Slow,7
+206,Stuck,7
+207,unresponsive,7
+208,Appliction slow ,7
+209,Hanging application ,7
+210,Application hangs ,7
+211,Application stuck,7
+212,Performance issue ,7
+213,Performance issues,7
+214,Performance slow ,7
+215,Performance slowness ,7
+216,Performance ,7
+217,High cpu usage ,8
+218,Windows Server High CPU,8
+219,CPU Workload High,8
+220,Cpu memory usage ,8
+221,Cpu usage high ,8
+222,Cpu utilization ,8
+223,Disc capacity ,8
+224,Disc full,8
+225,Allocate memory,8
+226,Allocate Space,8
+227,Disc space,8
+228,Disc warning,8
+229,Disk capacity ,8
+230,Disk full,8
+231,Disk warning,8
+232,High space used,8
+233,Process using high CPU,8
+234,Space utilization,8
+235,Space warning,8
+236,File Space,8
+237,File Utilization,8
+238,Diskspace low ,8
+239,Disk space low ,8
+240,Disk Utilization Issue,8
+241,Disk Utilization Warning,8
+242,Warning disk utilization,8
+243,Low disk space ,8
+244,Low diskspace ,8
+245,Low memory ,8
+246,Low system memory ,8
+247,Server disk space ,8
+248,Windows Server High Disk,8
+249,scratch space request,8
+250,scratch storage issue,8
+251,No space,8
+252,Diskspace,8
+253,Disk space ,8
+254,Space,8
+255,Space Request,8
+256,Freespace,8
+257,high space used,8
+258,crossed threshold,8
+259,exceeded usage,8
+260,Cleanup Request,9
+261,Disk Cleanup,9
+262,Space cleanup,9
+263,Cleanup,9
+264,Clean-up,9
+265,Clear Cache,10
+266,Cache error,10
+267,Cache Issues,10
+268,cache,10
